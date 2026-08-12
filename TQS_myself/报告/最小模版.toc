@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}实验目的 (Objectives)}{2}{section.1}%
+\contentsline {section}{\numberline {2}步骤一:横场伊辛模型的精确对角化基准测试}{2}{section.2}%
+\contentsline {section}{\numberline {3}蒙特卡洛采样收敛性测试}{3}{section.3}%
+\contentsline {section}{\numberline {4}未经过优化的 RBM 初始能量计算/评估}{3}{section.4}%
+\contentsline {section}{\numberline {5}RBM-变分蒙特卡洛优化}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}适用于可扩展VMC的稀疏哈密顿量求值}{4}{subsection.5.1}%
+\contentsline {section}{\numberline {6}SGD与Adam模型对比分析}{6}{section.6}%
+\contentsline {section}{\numberline {7}下一步工作计划 (Next Steps)}{6}{section.7}%
